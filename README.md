@@ -1,6 +1,6 @@
 ## Situated objects
 
-This is student project, so really not worth looking at. But that being said, if you care to check it out: this is a browser extension (so you'll need to download it/clone it) and then go into google chrome's extensions (chrome://extensions), enable dev mode, and then "load unpacked" extension. Head over to wikipedia to try it out. Fair warning: it really only works with lemons, large orange balls, a roll of electrical tape, a small fake potted plant, and a large red clip (for closing bags of potato chips or cereal).
+This is student project, so really not worth looking at. But that being said, if you care to check it out: this is a browser extension (so you'll need to download it/clone it) and then go into google chrome's extensions (chrome://extensions), enable dev mode, and then "load unpacked" extension. Head over to wikipedia to try it out. Fair warning: it really only works with lemons, large orange balls, a roll of electrical tape, a small fake potted plant, and a large red clip (for closing bags of potato chips or cereal). You'll need at least one of these items and pretty ideal camera conditions for this to work at all.
 
 I'll eventually get a blog post written up for this, so the demo video and images will be much more explanatory.
 

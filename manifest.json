@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Situated Objects",
+  "description": "A class project about human-digital situated objects.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["app/index.js"],
+      "matches": [
+        "https://www.google.com/*",
+        "https://*.wikipedia.org/*"
+      ]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "scripting"
+ ]
+}
